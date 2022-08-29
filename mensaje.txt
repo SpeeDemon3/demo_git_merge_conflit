@@ -1,5 +1,6 @@
-hello friends
-bye friends
+hello developers
+bye developers and friends
+
 
 
 linea3
